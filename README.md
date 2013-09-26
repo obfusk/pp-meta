@@ -2,7 +2,7 @@
 
     File        : README.md
     Maintainer  : Felix C. Stegerman <flx@obfusk.net>
-    Date        : 2013-09-16
+    Date        : 2013-09-26
 
     Copyright   : Copyright (C) 2013  Felix C. Stegerman
 
@@ -11,7 +11,7 @@
 ## Description
 []: {{{1
 
-  napp-server - napp server template
+  pp-meta - pp-\* puppet meta project
 
   ...
 
